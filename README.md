@@ -3,14 +3,11 @@ This repository aims to create a Client and Server with RTP and RTPS protocols, 
 
 # Running Server:
 
-  javac Server
-  java Server port
+  python Server.py port_number
   
 # Running Client:
 
-  javac Client
-  java Client servername port videofilename
+  python Client.py host_number port_number rtp_port_number video_file
   
 # Missing
-   implement the RTSP protocol in the client and implement the RTP
-packetization in the server. 
+   Play a diferent video haha. 
