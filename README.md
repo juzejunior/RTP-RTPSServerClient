@@ -1,6 +1,11 @@
 # RTP-RTPSServerClient
 This repository aims to create a Client and Server with RTP and RTPS protocols,  enabling video playback.
 
+# Install Library
+sudo apt-get install python-imaging-tk
+sudo apt-get install python-tk
+
+
 # Running Server:
 
   python Server.py port_number
