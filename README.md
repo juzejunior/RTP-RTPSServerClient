@@ -12,7 +12,7 @@ sudo apt-get install python-tk
   
 # Running Client:
 
-  python Client.py host_number port_number rtp_port_number video_file
+  python ClientLaunch.py host_number port_number rtp_port_number video_file
   
 # Missing
    Play a diferent video haha. 
